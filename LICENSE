@@ -1,0 +1,59 @@
+Bandpey GmbH Software License Agreement
+
+Copyright (c) 2024 Bandpey GmbH. All rights reserved.
+
+This software and documentation ("Software"), including but not limited to engineering principles, architectural guidelines, design patterns, and related technical documentation, is the proprietary work of Bandpey GmbH. Use of this Software is subject to the terms and conditions set forth in this License Agreement ("Agreement").
+
+GRANT OF LICENSE
+
+Subject to the terms and conditions of this Agreement, Bandpey GmbH hereby grants to the licensee ("Licensee") a non-exclusive, non-transferable, limited, revocable license to use, copy, and modify the Software for internal business purposes, demonstration, evaluation, and educational purposes. This license is personal to the Licensee and may not be sublicensed, assigned, or otherwise transferred without the prior written consent of Bandpey GmbH.
+
+RESTRICTIONS
+
+The Licensee acknowledges and agrees that:
+
+(a) The Software is provided for demonstration, evaluation, educational, and internal business purposes. Any commercial use, distribution, or exploitation of the Software requires a separate written commercial license agreement with Bandpey GmbH.
+
+(b) The Licensee shall not, without the prior written consent of Bandpey GmbH: (i) redistribute, sublicense, sell, lease, rent, or otherwise commercially exploit the Software; (ii) use the Software in any manner that competes with Bandpey GmbH's commercial offerings; (iii) remove, alter, or obscure any proprietary notices, labels, or marks on the Software; or (iv) use the Software in violation of any applicable laws or regulations.
+
+(c) All rights not expressly granted herein are reserved by Bandpey GmbH.
+
+DERIVATIVE WORKS
+
+The Licensee is permitted to create derivative works based on the Software for internal use only, provided that: (i) such derivative works are not redistributed, sublicensed, or commercially exploited without the prior written consent of Bandpey GmbH; (ii) any derivative works maintain prominent attribution to Bandpey GmbH; and (iii) the Licensee acknowledges that Bandpey GmbH retains all right, title, and interest in and to the original Software and any derivative works created therefrom.
+
+ATTRIBUTION REQUIREMENTS
+
+When using, referencing, or distributing the Software or any portion thereof, the Licensee must include prominent attribution to Bandpey GmbH, including but not limited to: (i) acknowledgment of Bandpey GmbH's copyright; (ii) reference to the original Software; and (iii) a statement that the Software is provided by Bandpey GmbH. Such attribution must be included in any documentation, user interfaces, or other materials that reference or incorporate the Software.
+
+INTELLECTUAL PROPERTY
+
+The Licensee acknowledges that the Software is protected by copyright, trademark, and other intellectual property laws. Bandpey GmbH retains all right, title, and interest in and to the Software, including all intellectual property rights therein. This Agreement does not grant the Licensee any rights to patents, copyrights, trade secrets, trademarks, or any other rights in respect to the Software, except as expressly set forth herein.
+
+DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, AND TITLE. BANDPEY GMBH DOES NOT WARRANT THAT THE SOFTWARE WILL MEET THE LICENSEE'S REQUIREMENTS, THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE SOFTWARE WILL BE CORRECTED. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH THE LICENSEE.
+
+LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL BANDPEY GMBH, ITS AFFILIATES, DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, OR LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. IN NO EVENT SHALL BANDPEY GMBH'S TOTAL LIABILITY TO THE LICENSEE FOR ALL DAMAGES EXCEED THE AMOUNT OF ZERO DOLLARS (US$0.00).
+
+TERMINATION
+
+This Agreement is effective until terminated. Bandpey GmbH may terminate this Agreement immediately, without notice, if the Licensee fails to comply with any provision contained herein. Upon termination: (i) all rights granted to the Licensee under this Agreement shall immediately cease; (ii) the Licensee must destroy all copies of the Software and all of its component parts in the Licensee's possession or control; and (iii) the Licensee must cease all use of the Software. The provisions of this Agreement that by their nature are intended to survive termination shall survive termination of this Agreement, including but not limited to the sections on Intellectual Property, Disclaimer of Warranty, Limitation of Liability, and General Provisions.
+
+GENERAL PROVISIONS
+
+This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written, between the parties relating to the subject matter hereof. This Agreement may only be modified, amended, or supplemented by a written instrument signed by an authorized executive of Bandpey GmbH.
+
+If any provision of this Agreement is held to be invalid, illegal, or unenforceable, the validity, legality, and enforceability of the remaining provisions shall remain in full force and effect.
+
+This Agreement shall be governed by and construed in accordance with the laws of the Federal Republic of Germany, without regard to its conflict of law provisions. Any disputes arising out of or relating to this Agreement shall be subject to the exclusive jurisdiction of the courts of Germany.
+
+The Licensee may not assign or transfer this Agreement or any rights or obligations hereunder without the prior written consent of Bandpey GmbH. Bandpey GmbH may assign this Agreement without the Licensee's consent.
+
+No waiver of any term or condition of this Agreement shall be deemed a further or continuing waiver of such term or condition or any other term or condition, and any failure of Bandpey GmbH to assert a right or provision under this Agreement shall not constitute a waiver of such right or provision.
+
+By using the Software, the Licensee acknowledges that the Licensee has read this Agreement, understands it, and agrees to be bound by its terms and conditions. If the Licensee does not agree to the terms and conditions of this Agreement, the Licensee must not use the Software.
+
+For commercial licensing inquiries or questions regarding this Agreement, please contact Bandpey GmbH.
